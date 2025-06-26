@@ -10,7 +10,7 @@
 
 Software Development Engineer | Driving Business Value Through Innovative Software Solutions | Cloud & Enterprise Tech Enthusiast
 
-** Core Strengths & Expertise:**  
+💻 Core Strengths & Expertise:  
 - Full‑Stack Development (Java, Laravel, Firebase, microservices)  
 - CRM/ERP integration & architecture  
 - Cloud-native design, containerization, and Kubernetes  
@@ -18,7 +18,7 @@ Software Development Engineer | Driving Business Value Through Innovative Softwa
 - Cyber‑security awareness & SSO best practices  
 - Support IT Infrastructures and Enterprises
 
-** Current Role:**  
+🌍 Current Role:
 Software Development Engineer at Erick Trading LLC, Sharjah, UAE — building scalable enterprise solutions, implementing microservices architectures, and optimizing DevOps pipelines.
 
 ---
