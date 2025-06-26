@@ -1,27 +1,64 @@
-<h3 align="center">
-  Welcome to Yasir Hussain Ts profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
 
-- 🏢 I'm a Software Development Engineer
-- 💬 Ask me about my experience with Java, Spring Boot, Microservices, Docker, Kubernetes & Web Development.
+### 👋 Welcome to Yasir Hussain Ts's Profile!
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/>
+</p>
 
+---
 
-### Connect with Me :
+### 🔹 Yasir Hussain Ts — Software Development Engineer
 
-<a href="https://linkedin.com/in/yasir-hussain-a78b641aa" target="_blank"><img src="https://img.shields.io/badge/-Yasir%20Hussain-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-### 🛠 &nbsp;Tech Stack
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
-![SpringBoot](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+**📌 Headline:**  
+Software Development Engineer | Driving Business Value Through Innovative Software Solutions | Cloud & Enterprise Tech Enthusiast
+
+**🎯 Core Strengths & Expertise:**  
+- Full‑Stack Development (Java, Laravel, Firebase, microservices)  
+- CRM/ERP integration & architecture  
+- Cloud-native design, containerization, and Kubernetes  
+- Mobile & API development (Flutter, OpenAPI, JHipster)  
+- Cyber‑security awareness & SSO best practices  
+- Support IT Infrastructures and Enterprises
+
+**📍 Current Role:**  
+Software Development Engineer at Erick Trading LLC, Sharjah — building scalable enterprise solutions, implementing microservices architectures, and optimizing DevOps pipelines.
+
+---
+
+### 🔗 Connect with Me:
+[![LinkedIn - Yasir Hussain](https://img.shields.io/badge/-Yasir%20Hussain-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yasir-hussain-ts-a78b641aa/)
+
+---
+
+### 🛠 Tech Stack
+
+#### 👨‍💻 Backend:
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+
+#### 📱 Mobile / Frontend:
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+
+#### ☁️ Tools & DevOps:
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![IntelliJ IDE](https://img.shields.io/badge/IntelliJ-05122A?style=flat&logo=jetbrains&logoColor=007ACC)&nbsp;
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+
+#### 🛢️ Databases:
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+#### 💡 IDEs & Tools:
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-000?style=flat&logo=intellij-idea)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+
+---
+
+### ✨ Tech Fact:
+> \"Learning never exhausts the mind – it only fuels better code.\"
