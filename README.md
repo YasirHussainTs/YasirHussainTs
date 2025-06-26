@@ -6,12 +6,11 @@
 
 ---
 
-### 🔹 Yasir Hussain Ts — Software Development Engineer
+###  Yasir Hussain Ts — Software Development Engineer
 
-**📌 Headline:**  
 Software Development Engineer | Driving Business Value Through Innovative Software Solutions | Cloud & Enterprise Tech Enthusiast
 
-**🎯 Core Strengths & Expertise:**  
+** Core Strengths & Expertise:**  
 - Full‑Stack Development (Java, Laravel, Firebase, microservices)  
 - CRM/ERP integration & architecture  
 - Cloud-native design, containerization, and Kubernetes  
@@ -19,8 +18,8 @@ Software Development Engineer | Driving Business Value Through Innovative Softwa
 - Cyber‑security awareness & SSO best practices  
 - Support IT Infrastructures and Enterprises
 
-**📍 Current Role:**  
-Software Development Engineer at Erick Trading LLC, Sharjah — building scalable enterprise solutions, implementing microservices architectures, and optimizing DevOps pipelines.
+** Current Role:**  
+Software Development Engineer at Erick Trading LLC, Sharjah, UAE — building scalable enterprise solutions, implementing microservices architectures, and optimizing DevOps pipelines.
 
 ---
 
@@ -32,19 +31,18 @@ Software Development Engineer at Erick Trading LLC, Sharjah — building scalabl
 ### 🛠 Tech Stack
 
 #### 👨‍💻 Backend:
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
 #### 📱 Mobile / Frontend:
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 
 #### ☁️ Tools & DevOps:
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
