@@ -16,8 +16,7 @@ Software Development Engineer | Driving Business Value Through Innovative Softwa
 - Support IT Infrastructures and Enterprises
 
 🌍 Current Role:
-Software Development Engineer at Erick Trading LLC, Sharjah, UAE — building scalable enterprise solutions, implementing microservices architectures, and optimizing DevOps pipelines.
-
+Software Development Engineer at Erick Trading LLC, Sharjah, UAE.
 ---
 
 ### 🔗 Connect with Me:
