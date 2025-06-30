@@ -17,7 +17,6 @@ Software Development Engineer | Driving Business Value Through Innovative Softwa
 
 🌍 Current Role:
 Software Development Engineer at Erick Trading LLC, Sharjah, UAE.
----
 
 ### 🔗 Connect with Me:
 [![LinkedIn - Yasir Hussain](https://img.shields.io/badge/-Yasir%20Hussain-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yasir-hussain-ts-a78b641aa/)
